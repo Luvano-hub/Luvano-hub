@@ -11,6 +11,7 @@ I'm a full-stack developer specialising in **Java**, but also proficient in othe
 🎓 **BSc Information Technology (Software Engineering)** graduate with a strong foundation in **Java development, software architecture, and database-driven applications.** Experienced in delivering projects using **enterprise Java (JEE)**, **web services**, **mobile app development**, and **full-stack solutions.** Skilled in applying **object-oriented design**, **agile methodologies**, and **secure coding practices** to build scalable, efficient, and user-focused systems. Passionate about software engineering, problem-solving, and leveraging emerging technologies to create impactful solutions.
 
 
+<!-- Contact me links with icons -->
 <a href="https://www.linkedin.com/in/luvano-zaal" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
@@ -19,7 +20,7 @@ I'm a full-stack developer specialising in **Java**, but also proficient in othe
 </a>
 
 ---
-
+<!-- Icons with hover function -->
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Language&#10;Java"/>
 <img align="left" alt="HTML" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="Language&#10;HTML" />
@@ -52,21 +53,18 @@ I'm a full-stack developer specialising in **Java**, but also proficient in othe
 <br />
 
 ---
+<!-- Showcasing my projects section -->
+### Featured Projects:
 
-### Featured Projects
+* **EduCarpool (full-stack Android app)**<br>
+    [Java, XML, Google maps APIs, PostgreSQL, Supabase | A peer-to-peer carpooling solution for my university (Eduvos) to address the student transport crisis.](https://github.com/Luvano-hub/EduCarpool)
 
-<p align="center">
-  <img src="https://via.placeholder.com/250x150.png?text=Project+1" alt="Project 1" />
-  <img src="https://via.placeholder.com/250x150.png?text=Project+2" alt="Project 2" />
-  <img src="https://via.placeholder.com/250x150.png?text=Project+3" alt="Project 3" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Luvano-Hub?tab=repositories">🔗 View All My Projects</a>
-</p>
+* **Shop_luvanski: C2C E-Commerce Platform (Full Stack)**<br>
+    [PHP, MySQL, HTML, CSS, JS | Fully functional marketplace like Takealot/Amazon.](https://github.com/Luvano-hub/shop_luvanski)
 
 ---
 
+<!-- Stats seection -->
 ## 📊 GitHub Stats
 
 <p align="center">
