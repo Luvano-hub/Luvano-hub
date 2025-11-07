@@ -8,7 +8,7 @@
 
 I'm a full-stack developer specialising in **Java**, but also proficient in other languages, building my version of the digital world one commit at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.  
 
-🎓 **BSc Information Technology (Software Engineering)** graduate with a strong foundation in **Java development, software architecture, and database-driven applications.** Experienced in delivering projects using **enterprise Java **, **web services**, **mobile app development**, and **full-stack solutions.** Skilled in applying **object-oriented design**, **agile methodologies**, and **secure coding practices** to build scalable, efficient, and user-focused systems. Passionate about software engineering, problem-solving, and leveraging emerging technologies to create impactful solutions.
+🎓 **BSc Information Technology (Software Engineering)** graduate with a strong foundation in **Java development, software architecture, and database-driven applications.** Experienced in delivering projects using **enterprise Java**, **web services**, **mobile app development**, and **full-stack solutions.** Skilled in applying **object-oriented design**, **agile methodologies**, and **secure coding practices** to build scalable, efficient, and user-focused systems. Passionate about software engineering, problem-solving, and leveraging emerging technologies to create impactful solutions.
 
 
 <!-- Contact me links with icons -->
