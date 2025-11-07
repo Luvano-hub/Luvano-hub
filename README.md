@@ -26,9 +26,11 @@ I'm a full-stack developer specialising in **Java**, but also proficient in othe
 <img align="left" alt="HTML" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="Language&#10;HTML" />
 <img align="left" alt="CSS" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="Language&#10;CSS" />
 <img align="left" alt="Javascript" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="Language&#10;JavaScript" />
+<img align="left" alt="TypeScript" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="Language&#10;TypeScript"/>
+<img align="left" alt="React" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="Language&#10;React"/>
 <img align="left" alt="PHP" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="Language&#10;PHP" />
 <img align="left" alt="C++" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" title="Language&#10;C++" />
-<img align="left" alt="Kotlin" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Language&#10;Kotlin" />
+
 
 <img align="left" alt="Spring Boot" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Framework&#10;Spring Boot" />
 <img align="left" alt="Node.js" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Framework&#10;Node.js" />
@@ -37,7 +39,6 @@ I'm a full-stack developer specialising in **Java**, but also proficient in othe
 <img align="left" alt="MySQL" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="Database&#10;MySQL" />
 <img align="left" alt="PostgreSQL" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Database&#10;PostgreSQL" />
 <img align="left" alt="MongoDB" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="Database&#10;MongoDB" />
-<img align="left" alt="Oracle" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Database&#10;Oracle" />
 
 <img align="left" alt="Android Studio" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="App Development&#10;Android Studio" />
 <img align="left" alt="Xcode" width="20px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="App Development&#10;Xcode" />
