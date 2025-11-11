@@ -63,6 +63,9 @@ I'm a full-stack developer specialising in **Java**, but also proficient in othe
 * **Shop_luvanski: C2C E-Commerce Platform (Full Stack)**<br>
     [PHP, MySQL, HTML, CSS, JS | Fully functional marketplace like Takealot/Amazon.](https://github.com/Luvano-hub/shop_luvanski)
 
+* **Luvano Zaal - Portfolio Website (Frontend)**<br>
+    [React, JavaScript, Tailwind CSS, Vite | A modern, responsive portfolio website with cosmic theme, dark/light mode, and smooth animations.](https://github.com/Luvano-hub/Luvano-Portfolio-Website)
+
 ---
 
 <!-- Stats seection -->
