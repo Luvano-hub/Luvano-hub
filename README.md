@@ -66,6 +66,9 @@ I'm a full-stack developer specialising in **Java**, but also proficient in othe
 * **Luvano Zaal - Portfolio Website (Frontend)**<br>
     [React, JavaScript, Tailwind CSS, Vite | A modern, responsive portfolio website with cosmic theme, dark/light mode, and smooth animations.](https://github.com/Luvano-hub/Luvano-Portfolio-Website)
 
+* **Evogym - Fitness Website (Frontend)**<br>
+    [React, TypeScript, Tailwind CSS, Framer Motion, Vite | A modern, responsive gym website with smooth animations, custom UI components, and professional design.](https://github.com/Luvano-hub/Typescript-Fitness-Website)
+
 ---
 
 <!-- Stats seection -->
